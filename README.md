@@ -1,3 +1,3 @@
 # dummy
 
-Check GitHub-Slack integration works!
+Check GitHub-Slack integration works!!
